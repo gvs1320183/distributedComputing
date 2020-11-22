@@ -8,6 +8,7 @@ Algorithms:
 In below platform configuration, ChandyMisraHaasOrModel.jar has been developed and tested:
 Operating System = macOS Big Sur
 JDK Version = 15.0.1
+Location of Jar File = distributedComputing/ChandyMisraHaasOrModel/deploy/
 
 Program's Input Details:
 ------------------------
